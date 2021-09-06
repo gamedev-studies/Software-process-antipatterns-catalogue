@@ -1,4 +1,4 @@
-[Home](../README.md) > [Catalogue](../games-catalogue/Antipatterns_catalogue_games.md) > Balancing issues
+[Home](../README.md) > [Catalogue](games-catalogue/Antipatterns_catalogue_games.md) > Balancing issues
 
 # Beta Beatdown
 
