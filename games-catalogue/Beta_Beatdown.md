@@ -3,7 +3,7 @@
 # Beta Beatdown
 
 ## Summary
-Players heavily criticize and give low ratings to a game that is still in Beta/Early Access
+Players heavily criticize and give low ratings to a game that is still in Beta/Early Access by a lack of understanding that it is a work in progress.
 
 ## Context
 The PM from Ashes of the Singularity (2015) reports that the game was overwhelmed by low ratings on Steam while being on Early Access. When the game was released, the low scores stuck around, and they took some time to go up. This impacted marketing and pricing negatively.
