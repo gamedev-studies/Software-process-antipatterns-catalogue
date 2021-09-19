@@ -15,10 +15,15 @@ In [Heavy Gear II (1999)](https://github.com/polako/pms-prob-after-years/blob/ma
 The PMs offer us insight on balancing games from 4 genres: fighting (Deadliest Warrior), platform (A Boy and His Blob), shooter (Heavy Gear II) and action/horror (Amnesia: A Machine for Pigs). However, this kind of issue is also popular on games such as online multiplayer RPGs and MOBAs. Especially in the context of competitive gaming, it is "important to have a balanced game so that the most skilled player is the winner". [Palm and Norén, 2010](https://www.diva-portal.org/smash/get/diva2:818292/FULLTEXT01.pdf)
 
 ## Symptoms and Consequences
-- (The evidence comes first from the PM. The Symptoms and Consequences comes from other sources.)
+- Players are reporting the challenges in the game seem to be frustrating/boring under certain conditions (e.g: a certain character stands no chance against others). This may be especially worrying when those who are reporting are professional/ranked players who really know the game in-depth [Mukherjee, 2021] (https://www.sportskeeda.com/esports/the-icefrog-mystery-how-dota-2-s-master-balance-kept-game-engaging-decade)
+- In games with multiple characters (e.g Fighting, MOBAs), a given character is picked much more frequently than others and also wins much more frequently (bad win/pick ratio) [Palm and Norén, 2010](https://www.diva-portal.org/smash/get/diva2:818292/FULLTEXT01.pdf)
 
 ## Refactored Solutions
-- (Base the recommendations in other sources)
+- "If Icefrog’s method of balancing DOTA 2 or DotA Allstars could be summarized in one line, it would be: balance the game around the pro scene, the rest of the player base would follow." [Mukherjee, 2021](https://www.sportskeeda.com/esports/the-icefrog-mystery-how-dota-2-s-master-balance-kept-game-engaging-decade)
+- "Balancing decisions had to be made through direct observations and direct player feedback." [DotA (2004)](https://www.gamedeveloper.com/design/postmortem-i-defense-of-the-ancients-i-)
+- "In this sense, the main goal is controlling the challenge levels aiming to maintain the player inside the flow, avoiding to reach boredom (no challenges at all) or frustration (challenges are too hard). (...) the ratio of challenges to skills should be around 50/50 in order to produce enjoyable experiences." [Silva et al, 2017](https://arxiv.org/pdf/1706.02796.pdf)
+- "Metagame Bounds is a balancing theory proposed by Alexander Jaffe at Game Developers Conference, 2015. (...) Metagame Bounds lets you calculate the optimal play rates of characters in a community of a game based on character win rates in matchups, one versus one. (...) In addition to the Metagame Bounds we will then look at these characters’ win rates and pick rates and see if there are any extremes in the graphs of these statistics and to compare it with the Metagame Bounds results to test the theory." [Palm and Norén, 2010](https://www.diva-portal.org/smash/get/diva2:818292/FULLTEXT01.pdf)
+- "During Life of a Patch [series of dev blog posts], we introduced you to the Champion Balance Framework which monitors League's roster of 148 champions along consistent, measurable definitions of over- and underperformance for four different player groups: Average, Skilled, Elite, and Professional. If a champion is overperforming in ANY of the four groups, they're in need of nerfs, and if they're underperforming in ALL of the four groups, they're ready for buffs." [SUMMONERS RIFT TEAM, 2020](https://www.leagueoflegends.com/en-us/news/dev/dev-balance-framework-update/)
 
 ### Suggested/adopted PM solutions
 - "We were able to create a Title Update [patch] that addressed all the balance issues. If we were not listening to the community, it would not have been possible to get this done as quickly as we did" [Deadliest Warrior (2010)](https://github.com/polako/pms-prob-after-years/blob/master/data/postmortems/pdfs/gamasutra/2010/pm-49-deadliest_warrior.pdf)
@@ -31,10 +36,14 @@ The PMs offer us insight on balancing games from 4 genres: fighting (Deadliest W
 - [Amnesia: A Machine for Pigs (2014)](https://github.com/polako/pms-prob-after-years/blob/master/data/postmortems/pdfs/gamasutra/2014/pm-1-amnesia_a_machine_for_pigs.pdf)
 - [Deadliest Warrior (2010)](https://github.com/polako/pms-prob-after-years/blob/master/data/postmortems/pdfs/gamasutra/2010/pm-49-deadliest_warrior.pdf)
 - [Heavy Gear II (1999)](https://github.com/polako/pms-prob-after-years/blob/master/data/postmortems/pdfs/gamasutra/1999/pm-203-heavy_gear_2.pdf)
+- [DotA (2004), not in the 200 PM sample](https://www.gamedeveloper.com/design/postmortem-i-defense-of-the-ancients-i-)
 
 ## Other Sources
 - [Andrade et al, 2006](https://www.aaai.org/Papers/AIIDE/2006/AIIDE06-005.pdf)
 - [Palm and Norén, 2010](https://www.diva-portal.org/smash/get/diva2:818292/FULLTEXT01.pdf)
+- [Mukherjee, 2021](https://www.sportskeeda.com/esports/the-icefrog-mystery-how-dota-2-s-master-balance-kept-game-engaging-decade)
+- [Silva et al, 2017](https://arxiv.org/pdf/1706.02796.pdf)
+- [SUMMONERS RIFT TEAM, 2020](https://www.leagueoflegends.com/en-us/news/dev/dev-balance-framework-update/)
 
 ## Old content/Comments
 Symptoms: People in the project frequently discuss the need of making levels and challenges harder/easier, Testers or players frequently report that they are not satisfied with the game's challenges
